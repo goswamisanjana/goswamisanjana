@@ -1,2 +1,2 @@
-# sanjana.github.io
+# goswamisanjana.github.io
 Sanjana's website
